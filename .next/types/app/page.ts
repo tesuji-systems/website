@@ -1,4 +1,4 @@
-// File: /home/njau-wangari/Downloads/tesuji-systems-website (1)/app/page.tsx
+// File: /home/njau-wangari/tesuji2/website/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
